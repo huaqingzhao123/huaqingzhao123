@@ -1,29 +1,15 @@
-
-## Unity游戏开发工程师
+Unity游戏开发工程师
 
 ——北大 
-
-______
 
 4年多手游开发经验,热爱技术，热爱游戏开发。
 
 ![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
+______
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&bg_color=DEG,B7FFFF,0F8E8E" />
-</a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&bg_color=DEG,B7FFFF,0F8E8E" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&bg_color=DEG,B7FFFF,0F8E8E" />
-</a>
-
-  <p align="center">
+<p align="center">
       <a href="https://github.com/huaqingzhao123/huaqingzhao123"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
       <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
       <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyuyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu?color=blue"></a>
@@ -32,7 +18,30 @@ ______
       <img src="https://visitor-badge.laobi.icu/badge?page_id=huaqingzhao123.huaqingzhao123" alt="visitors"/>   
   </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0E8E8E&width=435&lines=dll)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=100&color=0E8E8E&width=435&lines=dll" alt="Typing SVG" /></a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+</a>
+
+________
+
+
+
+  <!-- Lang -->
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+</a>
 
   <!-- Skill Matrix -->
 
@@ -86,6 +95,8 @@ ______
   </table>
 
 
+
+
   <!--   GitHub stats graph -->
 
   <p align="center"> 
@@ -93,6 +104,6 @@ ______
   </p>
 
 
-  <p align="center">counting of visitors to this page in this section started from January 15, 2024</p>
 
-  <a href="https://info.flagcounter.com/OtRf"><img src="https://s01.flagcounter.com/count2/OtRf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_64/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
+  <p align="center">counting of visitors to this page in this section started from January 15, 2024</p>
