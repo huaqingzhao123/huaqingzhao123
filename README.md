@@ -2,7 +2,7 @@ Unity游戏开发工程师
 
 ——北大 
 
-4年多手游开发经验,热爱技术，热爱游戏开发。
+4年多手游开发经验，热爱技术，热爱游戏开发。
 
 ![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFFFF)
 
