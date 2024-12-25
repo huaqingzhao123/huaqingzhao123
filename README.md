@@ -3,15 +3,13 @@
 
 ——北大 
 
-![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
-
-
-
 ______
 
 4年多手游开发经验,热爱技术，热爱游戏开发。
+
+![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&bg_color=DEG,B7FFFF,0F8E8E" />
