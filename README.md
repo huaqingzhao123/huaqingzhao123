@@ -4,7 +4,7 @@ Unity游戏开发工程师
 
 4年多手游开发经验,热爱技术，热爱游戏开发。
 
-![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E)
+![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD)
 
 ______
 
@@ -22,15 +22,15 @@ ______
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=100&color=0E8E8E&width=435&lines=dll" alt="Typing SVG" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
 </a>
 
 ________
@@ -40,7 +40,7 @@ ________
   <!-- Lang -->
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,0F8E8E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
 </a>
 
   <!-- Skill Matrix -->
