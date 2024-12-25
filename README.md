@@ -4,33 +4,33 @@ Unity游戏开发工程师
 
 4年多手游开发经验,热爱技术，热爱游戏开发。
 
-![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD)
+![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFFFF)
 
 ______
-
 
 <p align="center">
       <a href="https://github.com/huaqingzhao123/huaqingzhao123"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
       <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-      <a href="https://github.com/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyuyu/graphs/contributors"><img src="https://img.shields.io/github/contributors/Tianyuyuyuyuyuyu/Tianyuyuyuyuyuyu?color=blue"></a>
+      <a href="https://github.com/huaqingzhao123/huaqingzhao123/graphs/contributors"><img src="https://img.shields.io/github/contributors/huaqingzhao123/huaqingzhao123?color=blue"></a>
       <a href="https://github.com/huaqingzhao123/huaqingzhao123/stargazers"><img src="https://img.shields.io/github/stars/huaqingzhao123/huaqingzhao123.svg?logo=github"></a>
       <a href="https://github.com/huaqingzhao123/huaqingzhao123/network/members"><img src="https://img.shields.io/github/forks/huaqingzhao123/huaqingzhao123.svg?color=blue&logo=github"></a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=huaqingzhao123.huaqingzhao123" alt="visitors"/>   
   </p>
 
-
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=100&color=0E8E8E&width=435&lines=dll" alt="Typing SVG" /></a>
 
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFFFF" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFF" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFF" />
 </a>
 
 ________
@@ -40,7 +40,7 @@ ________
   <!-- Lang -->
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,CDCDCD" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFF" />
 </a>
 
   <!-- Skill Matrix -->
