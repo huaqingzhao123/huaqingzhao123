@@ -21,15 +21,15 @@ ______
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/huaqingzhao123/TechTreasury">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TechTreasury&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFFFF" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/huaqingzhao123/HuaFramework">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=HuaFramework&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFF" />
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/huaqingzhao123/TByd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=huaqingzhao123&&repo=TByd&showicons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFF" />
 </a>
 
