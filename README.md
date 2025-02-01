@@ -17,7 +17,7 @@ ______
       <img src="https://visitor-badge.laobi.icu/badge?page_id=huaqingzhao123.huaqingzhao123" alt="visitors"/>   
   </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=100&color=0E8E8E&width=435&lines=兄弟们 我太想进步了" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=100&color=0E8E8E&width=435&lines="兄弟们 我太想进步了" alt="Typing SVG" /></a>
 
 
 
