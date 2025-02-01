@@ -17,7 +17,7 @@ ______
       <img src="https://visitor-badge.laobi.icu/badge?page_id=huaqingzhao123.huaqingzhao123" alt="visitors"/>   
   </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=B7FFFF&width=435&lines=%E5%85%84%E5%BC%9F%E4%BB%AC+%E6%88%91%E5%A4%AA%E6%83%B3%E8%BF%9B%E6%AD%A5%E4%BA%86;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=B7FFFF&width=435&lines=%E5%85%84%E5%BC%9F%E4%BB%AC+%E6%88%91%E5%A4%AA%E6%83%B3%E8%BF%9B%E6%AD%A5%E4%BA%86)](https://git.io/typing-svg)
 
 
 
