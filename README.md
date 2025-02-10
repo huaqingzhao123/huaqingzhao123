@@ -1,8 +1,4 @@
-Unity游戏开发工程师
-
-——北大 
-
-4年多手游开发经验，热爱技术，热爱游戏开发。
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=200&color=000000&width=435&lines=%F0%9F%91%8B%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E8%B5%B5%E5%8C%97%E5%A4%A7;%E5%A4%9A%E5%B9%B4%E6%89%8B%E6%B8%B8%E5%BC%80%E5%8F%91%E7%BB%8F%E9%AA%8C;%E7%83%AD%E7%88%B1%E6%8A%80%E6%9C%AF%EF%BC%8C%E7%83%AD%E7%88%B1%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91)](https://git.io/typing-svg)
 
 ![BeiDa's GitHub stats](https://github-readme-stats.vercel.app/api?username=huaqingzhao123&show_icons=true&theme=tokyonight&bg_color=DEG,B7FFFF,FFFFFF)
 
@@ -16,8 +12,6 @@ ______
       <a href="https://github.com/huaqingzhao123/huaqingzhao123/network/members"><img src="https://img.shields.io/github/forks/huaqingzhao123/huaqingzhao123.svg?color=blue&logo=github"></a>
       <img src="https://visitor-badge.laobi.icu/badge?page_id=huaqingzhao123.huaqingzhao123" alt="visitors"/>   
   </p>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=30&pause=1000&color=B7FFFF&width=435&lines=%E5%85%84%E5%BC%9F%E4%BB%AC+%E6%88%91%E5%A4%AA%E6%83%B3%E8%BF%9B%E6%AD%A5%E4%BA%86)](https://git.io/typing-svg)
 
 
 <a href="https://github.com/huaqingzhao123/HuaFramework">
